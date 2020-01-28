@@ -14,3 +14,4 @@ from .timesheets_deleted import TimesheetsDeleted
 from .timesheets import Timesheets
 from .users import Users
 from .current_user import CurrentUser
+from .schedule_event import ScheduleEvent
